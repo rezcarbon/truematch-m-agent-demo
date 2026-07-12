@@ -11,3 +11,5 @@ services:
         value: production
       - key: PYTHONUNBUFFERED
         value: "true"
+      - key: GUNICORN_WORKERS
+        value: "1"
