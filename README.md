@@ -42,7 +42,7 @@ Result: Evidence-based verdicts. Recruiter-preserved authority. Full audit trail
 ### Path 1: See the Splash Page (5 minutes)
 Start here to understand what M Agent is and what it does.
 
-📖 **[→ Open Interactive Splash Page](./index_splash.html)**
+📖 **[→ Open Interactive Splash Page](https://truematch.digital/m-agent)**
 
 The splash page covers:
 - The recruiter expertise gap
@@ -374,7 +374,7 @@ Questions?"
 
 ## 🔗 Links
 
-🖥️ **Interactive Splash Page:** `./index_splash.html`  
+🖥️ **Interactive Splash Page:** [truematch.digital/m-agent](https://truematch.digital/m-agent)  
 🚀 **Live Demo:** [truematch-m-agent-demo.onrender.com](https://truematch-m-agent-demo.onrender.com)  
 📖 **GitHub:** [github.com/rezcarbon/truematch-m-agent-demo](https://github.com/rezcarbon/truematch-m-agent-demo)  
 🌐 **TrueMatch Platform:** [truematch.digital](https://truematch.digital)  
