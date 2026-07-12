@@ -197,7 +197,7 @@ truematch-m-agent-demo/
 ### Option A: Quick Deploy (5 minutes)
 ```bash
 # 1. Clone repo
-git clone https://github.com/truematch/m-agent-demo.git
+git clone https://github.com/rezcarbon/truematch-m-agent-demo.git
 cd truematch-m-agent-demo
 
 # 2. Install dependencies
@@ -234,7 +234,7 @@ docker run -p 8000:8000 m-agent
 ### Setup
 ```bash
 # Clone
-git clone https://github.com/truematch/m-agent-demo.git
+git clone https://github.com/rezcarbon/truematch-m-agent-demo.git
 cd truematch-m-agent-demo
 
 # Create virtual environment
@@ -376,7 +376,7 @@ Questions?"
 
 🖥️ **Interactive Splash Page:** `./index_splash.html`  
 🚀 **Live Demo:** [truematch-m-agent-demo.onrender.com](https://truematch-m-agent-demo.onrender.com)  
-📖 **GitHub:** [github.com/truematch/m-agent-demo](https://github.com/truematch/m-agent-demo)  
+📖 **GitHub:** [github.com/rezcarbon/truematch-m-agent-demo](https://github.com/rezcarbon/truematch-m-agent-demo)  
 🌐 **TrueMatch Platform:** [truematch.digital](https://truematch.digital)  
 
 ---
