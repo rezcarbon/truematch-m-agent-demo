@@ -54,7 +54,7 @@ The splash page covers:
 ### Path 2: Try the Live Demo (10 minutes)
 See M Agent assess two real candidates in real-time.
 
-🔴 **[→ Launch Interactive Demo](./truematch-m-agent-demo.onrender.com)** *(deployment URL)*
+🔴 **[→ Launch Interactive Demo](https://truematch-m-agent-demo.onrender.com/)** *(deployment URL)*
 
 The demo shows:
 - Wei Chen (clean candidate): all gates PASS, confidence 0.92
